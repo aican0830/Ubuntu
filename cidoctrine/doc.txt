@@ -1,0 +1,2 @@
+根据数据库表生成对应的类
+php doctrine.php orm:generate-entities --generate-annotations=true --regenerate-entities=true '../'  
